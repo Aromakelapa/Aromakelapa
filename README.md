@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aromakelapa
-- 👀 I’m interested in Python, NodeJS
-- 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me t.me/Coegcrackid
+- 👀 I’m interested in NodeJS
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on Web Development
+- 📫 How to reach me on email gmrom1404@gmail.com, on Telegram [here](https://t.me/Aromakelapa)
 
 <!---
 Aromakelapa/Aromakelapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
