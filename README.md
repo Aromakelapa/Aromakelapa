@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aromakelapa
 - 👀 I’m interested in NodeJS
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me on email gmrom1404@gmail.com, on Telegram [here](https://t.me/Aromakelapa)
 
